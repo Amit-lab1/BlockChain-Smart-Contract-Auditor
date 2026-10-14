@@ -1,0 +1,23 @@
+
+# Python virtual environments
+backend/venv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Node dependencies
+node_modules/
+
+# Build and test artifacts
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
